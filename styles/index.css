@@ -1,0 +1,30 @@
+@import url(../styles/header.css);
+@import url(../styles/about.css);
+@import url(../styles/animals.css);
+@import url(../styles/store.css);
+@import url(../styles/contact.css);
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+body{
+    margin: 0 auto;
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+    
+}
+
+a {
+    text-decoration: none;
+   
+}
+.container{
+    margin: 0 auto;
+   
+}
+section{
+    margin-left: 169px;
+    
+}
